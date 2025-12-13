@@ -131,4 +131,35 @@ def main():
     lines.append("Method: reproducible baseline model using public GitHub signals (no LLM).")
     lines.append("Breakout = +max(200 stars, +50%) within 7 days.")
     lines.append("")
-    for i
+        for i, r in enumerate(top, start=1):
+        p = int(round(100 * r["p_breakout_7d"]))
+        lines.append(
+            f"{i}) {r['full_name']} | {p}% | stars now {r['stars_now']} → "
+            f"est {r['stars_pred_7d']} "
+            f"(range {r['stars_pred_low_7d']}-{r['stars_pred_high_7d']})"
+        )
+        lines.append(f"   {r['html_url']}")
+
+    lines.append("")
+    lines.append(
+        "Daily forecasts are logged publicly, then scored 7 days later "
+        "(hits, misses, calibration)."
+    )
+    lines.append("#opensource #software #datascience #forecasting #github")
+
+    text = "\n".join(lines).strip()
+
+    post_payload = {
+        "post_id": f"repopulse-{today}",
+        "date_utc": today,
+        "text": text
+    }
+
+    post_path = os.path.join(POSTS_DIR, f"post_{today}.json")
+    with open(post_path, "w", encoding="utf-8") as f:
+        json.dump(post_payload, f, indent=2)
+
+    print(f"Wrote: {snap_path}")
+    print(f"Wrote: {pred_path}")
+    print(f"Wrote: {post_path}")
+
