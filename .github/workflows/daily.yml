@@ -1,0 +1,42 @@
+name: RepoPulse Daily
+
+on:
+  schedule:
+    - cron: "0 8 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install requests python-dateutil
+
+      - name: Run daily pipeline
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python scripts/daily.py
+
+      - name: Commit outputs
+        run: |
+          git config user.name "repopulse-bot"
+          git config user.email "repopulse-bot@users.noreply.github.com"
+          git add data predictions posts
+          git commit -m "RepoPulse daily run" || echo "Nothing to commit"
+          git push
+
+      - name: Trigger Make webhook
+        env:
+          MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
+        run: python scripts/trigger_make.py
