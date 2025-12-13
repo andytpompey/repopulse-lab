@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2025-12-13",
+  "date_utc": "2025-12-13",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) zai-org/Open-AutoGLM | 97% | stars now 13320 \u2192 est 38355 (range 38305-38405)\n   https://github.com/zai-org/Open-AutoGLM\n2) mistralai/mistral-vibe | 92% | stars now 1870 \u2192 est 5597 (range 5572-5622)\n   https://github.com/mistralai/mistral-vibe\n3) actionstatelabs/android-action-kernel | 91% | stars now 523 \u2192 est 2900 (range 2875-2925)\n   https://github.com/actionstatelabs/android-action-kernel\n4) Anionex/banana-slides | 91% | stars now 2455 \u2192 est 4130 (range 4102-4158)\n   https://github.com/Anionex/banana-slides\n5) PastKing/tgbot-verify | 91% | stars now 1034 \u2192 est 2587 (range 2562-2612)\n   https://github.com/PastKing/tgbot-verify\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
