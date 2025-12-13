@@ -2,6 +2,7 @@ import os
 import json
 import math
 from datetime import datetime, timedelta, timezone
+
 import requests
 
 REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
@@ -17,19 +18,24 @@ HEADERS = {"Accept": "application/vnd.github+json"}
 if GH_TOKEN:
     HEADERS["Authorization"] = f"Bearer {GH_TOKEN}"
 
+
 def gh_get(url, params=None):
     r = requests.get(url, headers=HEADERS, params=params, timeout=30)
     r.raise_for_status()
     return r.json()
 
+
 def clamp(x, lo=0.0, hi=1.0):
     return max(lo, min(hi, x))
+
 
 def logistic(z):
     return 1.0 / (1.0 + math.exp(-z))
 
+
 def iso_to_dt(s):
     return datetime.fromisoformat(s.replace("Z", "+00:00"))
+
 
 def main():
     now = datetime.now(timezone.utc)
@@ -75,46 +81,49 @@ def main():
 
         breakout_threshold = int(max(200, 0.5 * stars_now))
 
-        stars_pred_7d = int(round(stars_now + (7 * stars_per_day * (0.8 + 0.6 * p_breakout))))
+        stars_pred_7d = int(
+            round(stars_now + (7 * stars_per_day * (0.8 + 0.6 * p_breakout)))
+        )
         band = int(round(max(25, 0.25 * breakout_threshold * (1.0 - p_breakout))))
         low = max(0, stars_pred_7d - band)
         high = stars_pred_7d + band
 
-        snapshot.append({
-            "date_utc": today,
-            "full_name": repo["full_name"],
-            "html_url": repo["html_url"],
-            "stars_now": stars_now,
-            "forks_now": forks_now,
-            "issues_now": issues_now,
-            "language": language,
-            "created_at": repo["created_at"],
-            "pushed_at": repo["pushed_at"],
-        })
-
-        predictions.append({
-            "date_utc": today,
-            "full_name": repo["full_name"],
-            "html_url": repo["html_url"],
-            "stars_now": stars_now,
-            "breakout_threshold_7d": breakout_threshold,
-            "p_breakout_7d": round(p_breakout, 4),
-            "stars_pred_7d": stars_pred_7d,
-            "stars_pred_low_7d": low,
-            "stars_pred_high_7d": high,
-            "features": {
-                "age_days": round(age_days, 3),
-                "since_push_days": round(since_push_days, 3),
-                "stars_per_day": round(stars_per_day, 3),
+        snapshot.append(
+            {
+                "date_utc": today,
+                "full_name": repo["full_name"],
+                "html_url": repo["html_url"],
+                "stars_now": stars_now,
                 "forks_now": forks_now,
                 "issues_now": issues_now,
                 "language": language,
-            },
-            "model": {
-                "type": "heuristic_logistic_v1",
-                "notes": "Reproducible baseline. No LLM."
+                "created_at": repo["created_at"],
+                "pushed_at": repo["pushed_at"],
             }
-        })
+        )
+
+        predictions.append(
+            {
+                "date_utc": today,
+                "full_name": repo["full_name"],
+                "html_url": repo["html_url"],
+                "stars_now": stars_now,
+                "breakout_threshold_7d": breakout_threshold,
+                "p_breakout_7d": round(p_breakout, 4),
+                "stars_pred_7d": stars_pred_7d,
+                "stars_pred_low_7d": low,
+                "stars_pred_high_7d": high,
+                "features": {
+                    "age_days": round(age_days, 3),
+                    "since_push_days": round(since_push_days, 3),
+                    "stars_per_day": round(stars_per_day, 3),
+                    "forks_now": forks_now,
+                    "issues_now": issues_now,
+                    "language": language,
+                },
+                "model": {"type": "heuristic_logistic_v1", "notes": "Reproducible baseline. No LLM."},
+            }
+        )
 
     snap_path = os.path.join(DATA_DIR, f"snapshots_{today}.json")
     pred_path = os.path.join(PRED_DIR, f"predictions_{today}.json")
@@ -131,7 +140,8 @@ def main():
     lines.append("Method: reproducible baseline model using public GitHub signals (no LLM).")
     lines.append("Breakout = +max(200 stars, +50%) within 7 days.")
     lines.append("")
-        for i, r in enumerate(top, start=1):
+
+    for i, r in enumerate(top, start=1):
         p = int(round(100 * r["p_breakout_7d"]))
         lines.append(
             f"{i}) {r['full_name']} | {p}% | stars now {r['stars_now']} → "
@@ -142,18 +152,13 @@ def main():
 
     lines.append("")
     lines.append(
-        "Daily forecasts are logged publicly, then scored 7 days later "
-        "(hits, misses, calibration)."
+        "Daily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration)."
     )
     lines.append("#opensource #software #datascience #forecasting #github")
 
     text = "\n".join(lines).strip()
 
-    post_payload = {
-        "post_id": f"repopulse-{today}",
-        "date_utc": today,
-        "text": text
-    }
+    post_payload = {"post_id": f"repopulse-{today}", "date_utc": today, "text": text}
 
     post_path = os.path.join(POSTS_DIR, f"post_{today}.json")
     with open(post_path, "w", encoding="utf-8") as f:
@@ -163,3 +168,6 @@ def main():
     print(f"Wrote: {pred_path}")
     print(f"Wrote: {post_path}")
 
+
+if __name__ == "__main__":
+    main()
