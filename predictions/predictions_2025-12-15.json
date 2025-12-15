@@ -1,0 +1,692 @@
+[
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "zai-org/Open-AutoGLM",
+    "html_url": "https://github.com/zai-org/Open-AutoGLM",
+    "stars_now": 15054,
+    "breakout_threshold_7d": 7527,
+    "p_breakout_7d": 0.9699,
+    "stars_pred_7d": 35976,
+    "stars_pred_low_7d": 35919,
+    "stars_pred_high_7d": 36033,
+    "features": {
+      "age_days": 6.961,
+      "since_push_days": 0.132,
+      "stars_per_day": 2162.742,
+      "forks_now": 2332,
+      "issues_now": 110,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "assetnote/react2shell-scanner",
+    "html_url": "https://github.com/assetnote/react2shell-scanner",
+    "stars_now": 2191,
+    "breakout_threshold_7d": 1095,
+    "p_breakout_7d": 0.593,
+    "stars_pred_7d": 3793,
+    "stars_pred_low_7d": 3682,
+    "stars_pred_high_7d": 3904,
+    "features": {
+      "age_days": 11.064,
+      "since_push_days": 8.174,
+      "stars_per_day": 198.032,
+      "forks_now": 223,
+      "issues_now": 9,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "HKUDS/Paper2Slides",
+    "html_url": "https://github.com/HKUDS/Paper2Slides",
+    "stars_now": 1987,
+    "breakout_threshold_7d": 993,
+    "p_breakout_7d": 0.9243,
+    "stars_pred_7d": 4316,
+    "stars_pred_low_7d": 4291,
+    "stars_pred_high_7d": 4341,
+    "features": {
+      "age_days": 8.091,
+      "since_push_days": 0.043,
+      "stars_per_day": 245.576,
+      "forks_now": 255,
+      "issues_now": 3,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "mistralai/mistral-vibe",
+    "html_url": "https://github.com/mistralai/mistral-vibe",
+    "stars_now": 1977,
+    "breakout_threshold_7d": 988,
+    "p_breakout_7d": 0.8691,
+    "stars_pred_7d": 4764,
+    "stars_pred_low_7d": 4732,
+    "stars_pred_high_7d": 4796,
+    "features": {
+      "age_days": 6.563,
+      "since_push_days": 2.645,
+      "stars_per_day": 301.256,
+      "forks_now": 141,
+      "issues_now": 105,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "byJoey/ech-wk",
+    "html_url": "https://github.com/byJoey/ech-wk",
+    "stars_now": 1294,
+    "breakout_threshold_7d": 647,
+    "p_breakout_7d": 0.8379,
+    "stars_pred_7d": 2598,
+    "stars_pred_low_7d": 2572,
+    "stars_pred_high_7d": 2624,
+    "features": {
+      "age_days": 9.046,
+      "since_push_days": 2.908,
+      "stars_per_day": 143.043,
+      "forks_now": 730,
+      "issues_now": 32,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "msanft/CVE-2025-55182",
+    "html_url": "https://github.com/msanft/CVE-2025-55182",
+    "stars_now": 1230,
+    "breakout_threshold_7d": 615,
+    "p_breakout_7d": 0.6208,
+    "stars_pred_7d": 2160,
+    "stars_pred_low_7d": 2102,
+    "stars_pred_high_7d": 2218,
+    "features": {
+      "age_days": 10.859,
+      "since_push_days": 6.775,
+      "stars_per_day": 113.269,
+      "forks_now": 178,
+      "issues_now": 0,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "guhcostan/mac-cleaner-cli",
+    "html_url": "https://github.com/guhcostan/mac-cleaner-cli",
+    "stars_now": 1194,
+    "breakout_threshold_7d": 597,
+    "p_breakout_7d": 0.8114,
+    "stars_pred_7d": 2188,
+    "stars_pred_low_7d": 2160,
+    "stars_pred_high_7d": 2216,
+    "features": {
+      "age_days": 10.818,
+      "since_push_days": 2.764,
+      "stars_per_day": 110.372,
+      "forks_now": 118,
+      "issues_now": 2,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "PastKing/tgbot-verify",
+    "html_url": "https://github.com/PastKing/tgbot-verify",
+    "stars_now": 1165,
+    "breakout_threshold_7d": 582,
+    "p_breakout_7d": 0.8576,
+    "stars_pred_7d": 2491,
+    "stars_pred_low_7d": 2466,
+    "stars_pred_high_7d": 2516,
+    "features": {
+      "age_days": 8.083,
+      "since_push_days": 2.184,
+      "stars_per_day": 144.135,
+      "forks_now": 453,
+      "issues_now": 6,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "gommzystudio/device-activity-tracker",
+    "html_url": "https://github.com/gommzystudio/device-activity-tracker",
+    "stars_now": 998,
+    "breakout_threshold_7d": 499,
+    "p_breakout_7d": 0.882,
+    "stars_pred_7d": 2199,
+    "stars_pred_low_7d": 2174,
+    "stars_pred_high_7d": 2224,
+    "features": {
+      "age_days": 7.73,
+      "since_push_days": 0.887,
+      "stars_per_day": 129.112,
+      "forks_now": 167,
+      "issues_now": 4,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "Alibaba-Quark/LiveAvatar",
+    "html_url": "https://github.com/Alibaba-Quark/LiveAvatar",
+    "stars_now": 976,
+    "breakout_threshold_7d": 488,
+    "p_breakout_7d": 0.7827,
+    "stars_pred_7d": 1773,
+    "stars_pred_low_7d": 1746,
+    "stars_pred_high_7d": 1800,
+    "features": {
+      "age_days": 10.889,
+      "since_push_days": 3.064,
+      "stars_per_day": 89.628,
+      "forks_now": 85,
+      "issues_now": 8,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "cporter202/API-mega-list",
+    "html_url": "https://github.com/cporter202/API-mega-list",
+    "stars_now": 975,
+    "breakout_threshold_7d": 487,
+    "p_breakout_7d": 0.7231,
+    "stars_pred_7d": 2452,
+    "stars_pred_low_7d": 2418,
+    "stars_pred_high_7d": 2486,
+    "features": {
+      "age_days": 5.702,
+      "since_push_days": 5.602,
+      "stars_per_day": 170.997,
+      "forks_now": 217,
+      "issues_now": 2,
+      "language": "JavaScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "SawyerHood/dev-browser",
+    "html_url": "https://github.com/SawyerHood/dev-browser",
+    "stars_now": 888,
+    "breakout_threshold_7d": 444,
+    "p_breakout_7d": 0.7905,
+    "stars_pred_7d": 1519,
+    "stars_pred_low_7d": 1494,
+    "stars_pred_high_7d": 1544,
+    "features": {
+      "age_days": 12.546,
+      "since_push_days": 2.415,
+      "stars_per_day": 70.778,
+      "forks_now": 59,
+      "issues_now": 2,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "lachlan2k/React2Shell-CVE-2025-55182-original-poc",
+    "html_url": "https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc",
+    "stars_now": 883,
+    "breakout_threshold_7d": 441,
+    "p_breakout_7d": 0.3894,
+    "stars_pred_7d": 1521,
+    "stars_pred_low_7d": 1454,
+    "stars_pred_high_7d": 1588,
+    "features": {
+      "age_days": 10.019,
+      "since_push_days": 9.98,
+      "stars_per_day": 88.135,
+      "forks_now": 91,
+      "issues_now": 0,
+      "language": "JavaScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "eooce/Gla-deploy",
+    "html_url": "https://github.com/eooce/Gla-deploy",
+    "stars_now": 858,
+    "breakout_threshold_7d": 429,
+    "p_breakout_7d": 0.9355,
+    "stars_pred_7d": 5233,
+    "stars_pred_low_7d": 5208,
+    "stars_pred_high_7d": 5258,
+    "features": {
+      "age_days": 1.869,
+      "since_push_days": 0.224,
+      "stars_per_day": 459.14,
+      "forks_now": 171,
+      "issues_now": 0,
+      "language": "JavaScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "cporter202/scraping-apis-for-devs",
+    "html_url": "https://github.com/cporter202/scraping-apis-for-devs",
+    "stars_now": 827,
+    "breakout_threshold_7d": 413,
+    "p_breakout_7d": 0.812,
+    "stars_pred_7d": 2455,
+    "stars_pred_low_7d": 2430,
+    "stars_pred_high_7d": 2480,
+    "features": {
+      "age_days": 4.577,
+      "since_push_days": 3.627,
+      "stars_per_day": 180.674,
+      "forks_now": 180,
+      "issues_now": 0,
+      "language": "JavaScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "durable-streams/durable-streams",
+    "html_url": "https://github.com/durable-streams/durable-streams",
+    "stars_now": 784,
+    "breakout_threshold_7d": 392,
+    "p_breakout_7d": 0.858,
+    "stars_pred_7d": 1479,
+    "stars_pred_low_7d": 1454,
+    "stars_pred_high_7d": 1504,
+    "features": {
+      "age_days": 10.378,
+      "since_push_days": 0.319,
+      "stars_per_day": 75.544,
+      "forks_now": 17,
+      "issues_now": 22,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "ejpir/CVE-2025-55182-research",
+    "html_url": "https://github.com/ejpir/CVE-2025-55182-research",
+    "stars_now": 772,
+    "breakout_threshold_7d": 386,
+    "p_breakout_7d": 0.5933,
+    "stars_pred_7d": 1317,
+    "stars_pred_low_7d": 1278,
+    "stars_pred_high_7d": 1356,
+    "features": {
+      "age_days": 11.466,
+      "since_push_days": 6.462,
+      "stars_per_day": 67.331,
+      "forks_now": 207,
+      "issues_now": 3,
+      "language": "JavaScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "TanShilongMario/PromptFill",
+    "html_url": "https://github.com/TanShilongMario/PromptFill",
+    "stars_now": 695,
+    "breakout_threshold_7d": 347,
+    "p_breakout_7d": 0.7824,
+    "stars_pred_7d": 1401,
+    "stars_pred_low_7d": 1376,
+    "stars_pred_high_7d": 1426,
+    "features": {
+      "age_days": 8.745,
+      "since_push_days": 2.938,
+      "stars_per_day": 79.47,
+      "forks_now": 105,
+      "issues_now": 5,
+      "language": "JavaScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "actionstatelabs/android-action-kernel",
+    "html_url": "https://github.com/actionstatelabs/android-action-kernel",
+    "stars_now": 664,
+    "breakout_threshold_7d": 332,
+    "p_breakout_7d": 0.899,
+    "stars_pred_7d": 2265,
+    "stars_pred_low_7d": 2240,
+    "stars_pred_high_7d": 2290,
+    "features": {
+      "age_days": 3.889,
+      "since_push_days": 0.424,
+      "stars_per_day": 170.754,
+      "forks_now": 76,
+      "issues_now": 3,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "zai-org/GLM-TTS",
+    "html_url": "https://github.com/zai-org/GLM-TTS",
+    "stars_now": 626,
+    "breakout_threshold_7d": 313,
+    "p_breakout_7d": 0.7641,
+    "stars_pred_7d": 1229,
+    "stars_pred_low_7d": 1204,
+    "stars_pred_high_7d": 1254,
+    "features": {
+      "age_days": 9.15,
+      "since_push_days": 3.033,
+      "stars_per_day": 68.415,
+      "forks_now": 75,
+      "issues_now": 25,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "typsusan-zzz/canvas-drawing-editor",
+    "html_url": "https://github.com/typsusan-zzz/canvas-drawing-editor",
+    "stars_now": 615,
+    "breakout_threshold_7d": 307,
+    "p_breakout_7d": 0.6395,
+    "stars_pred_7d": 1333,
+    "stars_pred_low_7d": 1305,
+    "stars_pred_high_7d": 1361,
+    "features": {
+      "age_days": 7.095,
+      "since_push_days": 5.226,
+      "stars_per_day": 86.676,
+      "forks_now": 7,
+      "issues_now": 0,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "tombcato/clash-ip-checker",
+    "html_url": "https://github.com/tombcato/clash-ip-checker",
+    "stars_now": 608,
+    "breakout_threshold_7d": 304,
+    "p_breakout_7d": 0.9138,
+    "stars_pred_7d": 2802,
+    "stars_pred_low_7d": 2777,
+    "stars_pred_high_7d": 2827,
+    "features": {
+      "age_days": 2.615,
+      "since_push_days": 0.039,
+      "stars_per_day": 232.491,
+      "forks_now": 39,
+      "issues_now": 1,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "tobi/qmd",
+    "html_url": "https://github.com/tobi/qmd",
+    "stars_now": 572,
+    "breakout_threshold_7d": 286,
+    "p_breakout_7d": 0.8238,
+    "stars_pred_7d": 1339,
+    "stars_pred_low_7d": 1314,
+    "stars_pred_high_7d": 1364,
+    "features": {
+      "age_days": 6.753,
+      "since_push_days": 1.538,
+      "stars_per_day": 84.705,
+      "forks_now": 18,
+      "issues_now": 2,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "zai-org/GLM-ASR",
+    "html_url": "https://github.com/zai-org/GLM-ASR",
+    "stars_now": 510,
+    "breakout_threshold_7d": 255,
+    "p_breakout_7d": 0.7794,
+    "stars_pred_7d": 1315,
+    "stars_pred_low_7d": 1290,
+    "stars_pred_high_7d": 1340,
+    "features": {
+      "age_days": 5.625,
+      "since_push_days": 2.995,
+      "stars_per_day": 90.67,
+      "forks_now": 45,
+      "issues_now": 13,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "mrknow001/RSC_Detector",
+    "html_url": "https://github.com/mrknow001/RSC_Detector",
+    "stars_now": 487,
+    "breakout_threshold_7d": 243,
+    "p_breakout_7d": 0.3311,
+    "stars_pred_7d": 824,
+    "stars_pred_low_7d": 783,
+    "stars_pred_high_7d": 865,
+    "features": {
+      "age_days": 10.107,
+      "since_push_days": 10.011,
+      "stars_per_day": 48.186,
+      "forks_now": 78,
+      "issues_now": 3,
+      "language": "JavaScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "ringtailsoftware/uvm32",
+    "html_url": "https://github.com/ringtailsoftware/uvm32",
+    "stars_now": 447,
+    "breakout_threshold_7d": 223,
+    "p_breakout_7d": 0.8373,
+    "stars_pred_7d": 918,
+    "stars_pred_low_7d": 893,
+    "stars_pred_high_7d": 943,
+    "features": {
+      "age_days": 8.656,
+      "since_push_days": 0.301,
+      "stars_per_day": 51.642,
+      "forks_now": 13,
+      "issues_now": 0,
+      "language": "C++"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "ZiHuixi/QQgroup-annual-report-analyzer",
+    "html_url": "https://github.com/ZiHuixi/QQgroup-annual-report-analyzer",
+    "stars_now": 440,
+    "breakout_threshold_7d": 220,
+    "p_breakout_7d": 0.8679,
+    "stars_pred_7d": 1326,
+    "stars_pred_low_7d": 1301,
+    "stars_pred_high_7d": 1351,
+    "features": {
+      "age_days": 4.593,
+      "since_push_days": 0.529,
+      "stars_per_day": 95.799,
+      "forks_now": 34,
+      "issues_now": 27,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "meituan-longcat/LongCat-Image",
+    "html_url": "https://github.com/meituan-longcat/LongCat-Image",
+    "stars_now": 424,
+    "breakout_threshold_7d": 212,
+    "p_breakout_7d": 0.7022,
+    "stars_pred_7d": 724,
+    "stars_pred_low_7d": 699,
+    "stars_pred_high_7d": 749,
+    "features": {
+      "age_days": 12.083,
+      "since_push_days": 3.017,
+      "stars_per_day": 35.089,
+      "forks_now": 29,
+      "issues_now": 24,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "farouqaldori/claude-island",
+    "html_url": "https://github.com/farouqaldori/claude-island",
+    "stars_now": 402,
+    "breakout_threshold_7d": 201,
+    "p_breakout_7d": 0.7692,
+    "stars_pred_7d": 966,
+    "stars_pred_low_7d": 941,
+    "stars_pred_high_7d": 991,
+    "features": {
+      "age_days": 6.299,
+      "since_push_days": 2.616,
+      "stars_per_day": 63.823,
+      "forks_now": 35,
+      "issues_now": 9,
+      "language": "Swift"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-15",
+    "full_name": "karpathy/hn-time-capsule",
+    "html_url": "https://github.com/karpathy/hn-time-capsule",
+    "stars_now": 389,
+    "breakout_threshold_7d": 200,
+    "p_breakout_7d": 0.6915,
+    "stars_pred_7d": 1096,
+    "stars_pred_low_7d": 1071,
+    "stars_pred_high_7d": 1121,
+    "features": {
+      "age_days": 4.678,
+      "since_push_days": 4.644,
+      "stars_per_day": 83.157,
+      "forks_now": 39,
+      "issues_now": 11,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  }
+]
