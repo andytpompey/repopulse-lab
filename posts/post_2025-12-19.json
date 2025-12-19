@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2025-12-19",
+  "date_utc": "2025-12-19",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) zai-org/Open-AutoGLM | 96% | stars now 17845 \u2192 est 33523 (range 33432-33614)\n   https://github.com/zai-org/Open-AutoGLM\n2) productdevbook/port-killer | 94% | stars now 1968 \u2192 est 7702 (range 7677-7727)\n   https://github.com/productdevbook/port-killer\n3) apple/ml-sharp | 94% | stars now 3180 \u2192 est 7395 (range 7370-7420)\n   https://github.com/apple/ml-sharp\n4) HKUDS/Paper2Slides | 91% | stars now 2337 \u2192 est 4162 (range 4137-4187)\n   https://github.com/HKUDS/Paper2Slides\n5) eooce/Gla-deploy | 91% | stars now 1149 \u2192 est 2997 (range 2972-3022)\n   https://github.com/eooce/Gla-deploy\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
