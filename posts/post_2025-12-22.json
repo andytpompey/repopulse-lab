@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2025-12-22",
+  "date_utc": "2025-12-22",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) zai-org/Open-AutoGLM | 96% | stars now 18600 \u2192 est 31458 (range 31375-31541)\n   https://github.com/zai-org/Open-AutoGLM\n2) productdevbook/port-killer | 93% | stars now 2392 \u2192 est 6013 (range 5988-6038)\n   https://github.com/productdevbook/port-killer\n3) journey-ad/gemini-watermark-remover | 92% | stars now 741 \u2192 est 3201 (range 3176-3226)\n   https://github.com/journey-ad/gemini-watermark-remover\n4) eooce/Gla-deploy | 90% | stars now 1216 \u2192 est 2503 (range 2478-2528)\n   https://github.com/eooce/Gla-deploy\n5) agentskills/agentskills | 90% | stars now 2927 \u2192 est 7749 (range 7712-7786)\n   https://github.com/agentskills/agentskills\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
