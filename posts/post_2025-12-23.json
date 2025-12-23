@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2025-12-23",
+  "date_utc": "2025-12-23",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) muratcankoylan/Agent-Skills-for-Context-Engineering | 92% | stars now 812 \u2192 est 4254 (range 4229-4279)\n   https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering\n2) journey-ad/gemini-watermark-remover | 92% | stars now 968 \u2192 est 3346 (range 3321-3371)\n   https://github.com/journey-ad/gemini-watermark-remover\n3) productdevbook/port-killer | 91% | stars now 2429 \u2192 est 5570 (range 5542-5598)\n   https://github.com/productdevbook/port-killer\n4) Maxteabag/sqlit | 89% | stars now 1396 \u2192 est 2659 (range 2634-2684)\n   https://github.com/Maxteabag/sqlit\n5) QwenLM/Qwen-Image-Layered | 88% | stars now 799 \u2192 est 2292 (range 2267-2317)\n   https://github.com/QwenLM/Qwen-Image-Layered\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
