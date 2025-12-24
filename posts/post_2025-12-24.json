@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2025-12-24",
+  "date_utc": "2025-12-24",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) muratcankoylan/Agent-Skills-for-Context-Engineering | 93% | stars now 1170 \u2192 est 4607 (range 4582-4632)\n   https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering\n2) bellard/mquickjs | 93% | stars now 1806 \u2192 est 11589 (range 11564-11614)\n   https://github.com/bellard/mquickjs\n3) journey-ad/gemini-watermark-remover | 90% | stars now 1067 \u2192 est 3132 (range 3107-3157)\n   https://github.com/journey-ad/gemini-watermark-remover\n4) MineDojo/NitroGen | 89% | stars now 857 \u2192 est 2061 (range 2036-2086)\n   https://github.com/MineDojo/NitroGen\n5) gemini-cli-extensions/conductor | 88% | stars now 806 \u2192 est 1847 (range 1822-1872)\n   https://github.com/gemini-cli-extensions/conductor\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
