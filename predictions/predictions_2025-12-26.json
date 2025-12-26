@@ -1,0 +1,692 @@
+[
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "apple/ml-sharp",
+    "html_url": "https://github.com/apple/ml-sharp",
+    "stars_now": 5243,
+    "breakout_threshold_7d": 2621,
+    "p_breakout_7d": 0.7124,
+    "stars_pred_7d": 8417,
+    "stars_pred_low_7d": 8229,
+    "stars_pred_high_7d": 8605,
+    "features": {
+      "age_days": 14.192,
+      "since_push_days": 7.131,
+      "stars_per_day": 369.428,
+      "forks_now": 336,
+      "issues_now": 40,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "bellard/mquickjs",
+    "html_url": "https://github.com/bellard/mquickjs",
+    "stars_now": 4048,
+    "breakout_threshold_7d": 2024,
+    "p_breakout_7d": 0.9299,
+    "stars_pred_7d": 14304,
+    "stars_pred_low_7d": 14269,
+    "stars_pred_high_7d": 14339,
+    "features": {
+      "age_days": 3.752,
+      "since_push_days": 1.869,
+      "stars_per_day": 1078.985,
+      "forks_now": 140,
+      "issues_now": 18,
+      "language": "C"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "agentskills/agentskills",
+    "html_url": "https://github.com/agentskills/agentskills",
+    "stars_now": 3714,
+    "breakout_threshold_7d": 1857,
+    "p_breakout_7d": 0.75,
+    "stars_pred_7d": 7067,
+    "stars_pred_low_7d": 6951,
+    "stars_pred_high_7d": 7183,
+    "features": {
+      "age_days": 9.691,
+      "since_push_days": 6.237,
+      "stars_per_day": 383.226,
+      "forks_now": 164,
+      "issues_now": 28,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "html_url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "stars_now": 2961,
+    "breakout_threshold_7d": 1480,
+    "p_breakout_7d": 0.9325,
+    "stars_pred_7d": 8343,
+    "stars_pred_low_7d": 8318,
+    "stars_pred_high_7d": 8368,
+    "features": {
+      "age_days": 5.236,
+      "since_push_days": 0.832,
+      "stars_per_day": 565.553,
+      "forks_now": 235,
+      "issues_now": 4,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "2025Emma/vibe-coding-cn",
+    "html_url": "https://github.com/2025Emma/vibe-coding-cn",
+    "stars_now": 2591,
+    "breakout_threshold_7d": 1295,
+    "p_breakout_7d": 0.5582,
+    "stars_pred_7d": 4794,
+    "stars_pred_low_7d": 4651,
+    "stars_pred_high_7d": 4937,
+    "features": {
+      "age_days": 9.342,
+      "since_push_days": 9.341,
+      "stars_per_day": 277.348,
+      "forks_now": 294,
+      "issues_now": 0,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "productdevbook/port-killer",
+    "html_url": "https://github.com/productdevbook/port-killer",
+    "stars_now": 2536,
+    "breakout_threshold_7d": 1268,
+    "p_breakout_7d": 0.8052,
+    "stars_pred_7d": 4753,
+    "stars_pred_low_7d": 4691,
+    "stars_pred_high_7d": 4815,
+    "features": {
+      "age_days": 10.276,
+      "since_push_days": 4.063,
+      "stars_per_day": 246.777,
+      "forks_now": 75,
+      "issues_now": 22,
+      "language": "Swift"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "Maxteabag/sqlit",
+    "html_url": "https://github.com/Maxteabag/sqlit",
+    "stars_now": 2115,
+    "breakout_threshold_7d": 1057,
+    "p_breakout_7d": 0.8883,
+    "stars_pred_7d": 3594,
+    "stars_pred_low_7d": 3564,
+    "stars_pred_high_7d": 3624,
+    "features": {
+      "age_days": 13.342,
+      "since_push_days": 0.624,
+      "stars_per_day": 158.523,
+      "forks_now": 45,
+      "issues_now": 4,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "VibiumDev/vibium",
+    "html_url": "https://github.com/VibiumDev/vibium",
+    "stars_now": 1494,
+    "breakout_threshold_7d": 747,
+    "p_breakout_7d": 0.8431,
+    "stars_pred_7d": 2448,
+    "stars_pred_low_7d": 2419,
+    "stars_pred_high_7d": 2477,
+    "features": {
+      "age_days": 14.31,
+      "since_push_days": 1.627,
+      "stars_per_day": 104.404,
+      "forks_now": 63,
+      "issues_now": 11,
+      "language": "Go"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "eooce/Gla-deploy",
+    "html_url": "https://github.com/eooce/Gla-deploy",
+    "stars_now": 1257,
+    "breakout_threshold_7d": 628,
+    "p_breakout_7d": 0.7484,
+    "stars_pred_7d": 2111,
+    "stars_pred_low_7d": 2071,
+    "stars_pred_high_7d": 2151,
+    "features": {
+      "age_days": 12.866,
+      "since_push_days": 4.22,
+      "stars_per_day": 97.7,
+      "forks_now": 228,
+      "issues_now": 0,
+      "language": "JavaScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "journey-ad/gemini-watermark-remover",
+    "html_url": "https://github.com/journey-ad/gemini-watermark-remover",
+    "stars_now": 1236,
+    "breakout_threshold_7d": 618,
+    "p_breakout_7d": 0.8362,
+    "stars_pred_7d": 2881,
+    "stars_pred_low_7d": 2856,
+    "stars_pred_high_7d": 2906,
+    "features": {
+      "age_days": 6.845,
+      "since_push_days": 2.865,
+      "stars_per_day": 180.57,
+      "forks_now": 126,
+      "issues_now": 2,
+      "language": "JavaScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "DGoettlich/history-llms",
+    "html_url": "https://github.com/DGoettlich/history-llms",
+    "stars_now": 1204,
+    "breakout_threshold_7d": 602,
+    "p_breakout_7d": 0.7538,
+    "stars_pred_7d": 2100,
+    "stars_pred_low_7d": 2063,
+    "stars_pred_high_7d": 2137,
+    "features": {
+      "age_days": 11.774,
+      "since_push_days": 3.539,
+      "stars_per_day": 102.258,
+      "forks_now": 19,
+      "issues_now": 1,
+      "language": "Unknown"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "Lulzx/tinypdf",
+    "html_url": "https://github.com/Lulzx/tinypdf",
+    "stars_now": 1045,
+    "breakout_threshold_7d": 522,
+    "p_breakout_7d": 0.8514,
+    "stars_pred_7d": 2312,
+    "stars_pred_low_7d": 2287,
+    "stars_pred_high_7d": 2337,
+    "features": {
+      "age_days": 7.566,
+      "since_push_days": 1.71,
+      "stars_per_day": 138.111,
+      "forks_now": 43,
+      "issues_now": 2,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "QwenLM/Qwen-Image-Layered",
+    "html_url": "https://github.com/QwenLM/Qwen-Image-Layered",
+    "stars_now": 996,
+    "breakout_threshold_7d": 498,
+    "p_breakout_7d": 0.8727,
+    "stars_pred_7d": 2153,
+    "stars_pred_low_7d": 2128,
+    "stars_pred_high_7d": 2178,
+    "features": {
+      "age_days": 7.978,
+      "since_push_days": 0.951,
+      "stars_per_day": 124.846,
+      "forks_now": 68,
+      "issues_now": 9,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "MineDojo/NitroGen",
+    "html_url": "https://github.com/MineDojo/NitroGen",
+    "stars_now": 978,
+    "breakout_threshold_7d": 489,
+    "p_breakout_7d": 0.8214,
+    "stars_pred_7d": 2003,
+    "stars_pred_low_7d": 1978,
+    "stars_pred_high_7d": 2028,
+    "features": {
+      "age_days": 8.638,
+      "since_push_days": 2.52,
+      "stars_per_day": 113.217,
+      "forks_now": 111,
+      "issues_now": 6,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "hezhizheng/go-wxpush",
+    "html_url": "https://github.com/hezhizheng/go-wxpush",
+    "stars_now": 939,
+    "breakout_threshold_7d": 469,
+    "p_breakout_7d": 0.685,
+    "stars_pred_7d": 1522,
+    "stars_pred_low_7d": 1485,
+    "stars_pred_high_7d": 1559,
+    "features": {
+      "age_days": 13.642,
+      "since_push_days": 4.661,
+      "stars_per_day": 68.831,
+      "forks_now": 82,
+      "issues_now": 0,
+      "language": "Go"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "gemini-cli-extensions/conductor",
+    "html_url": "https://github.com/gemini-cli-extensions/conductor",
+    "stars_now": 924,
+    "breakout_threshold_7d": 462,
+    "p_breakout_7d": 0.8151,
+    "stars_pred_7d": 1830,
+    "stars_pred_low_7d": 1805,
+    "stars_pred_high_7d": 1855,
+    "features": {
+      "age_days": 9.206,
+      "since_push_days": 2.414,
+      "stars_per_day": 100.366,
+      "forks_now": 79,
+      "issues_now": 18,
+      "language": "Unknown"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "gaearon/rscexplorer",
+    "html_url": "https://github.com/gaearon/rscexplorer",
+    "stars_now": 876,
+    "breakout_threshold_7d": 438,
+    "p_breakout_7d": 0.8484,
+    "stars_pred_7d": 1684,
+    "stars_pred_low_7d": 1659,
+    "stars_pred_high_7d": 1709,
+    "features": {
+      "age_days": 9.935,
+      "since_push_days": 0.973,
+      "stars_per_day": 88.176,
+      "forks_now": 26,
+      "issues_now": 0,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "XiaomiMiMo/MiMo-V2-Flash",
+    "html_url": "https://github.com/XiaomiMiMo/MiMo-V2-Flash",
+    "stars_now": 867,
+    "breakout_threshold_7d": 433,
+    "p_breakout_7d": 0.7201,
+    "stars_pred_7d": 1568,
+    "stars_pred_low_7d": 1538,
+    "stars_pred_high_7d": 1598,
+    "features": {
+      "age_days": 10.663,
+      "since_push_days": 3.983,
+      "stars_per_day": 81.31,
+      "forks_now": 29,
+      "issues_now": 7,
+      "language": "Unknown"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "tombcato/clash-ip-checker",
+    "html_url": "https://github.com/tombcato/clash-ip-checker",
+    "stars_now": 830,
+    "breakout_threshold_7d": 415,
+    "p_breakout_7d": 0.4662,
+    "stars_pred_7d": 1291,
+    "stars_pred_low_7d": 1236,
+    "stars_pred_high_7d": 1346,
+    "features": {
+      "age_days": 13.612,
+      "since_push_days": 8.007,
+      "stars_per_day": 60.974,
+      "forks_now": 53,
+      "issues_now": 1,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "mmarinovic/tailwindsql",
+    "html_url": "https://github.com/mmarinovic/tailwindsql",
+    "stars_now": 825,
+    "breakout_threshold_7d": 412,
+    "p_breakout_7d": 0.3873,
+    "stars_pred_7d": 1378,
+    "stars_pred_low_7d": 1315,
+    "stars_pred_high_7d": 1441,
+    "features": {
+      "age_days": 10.78,
+      "since_push_days": 9.512,
+      "stars_per_day": 76.534,
+      "forks_now": 30,
+      "issues_now": 43,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "aiclientproxy/proxycast",
+    "html_url": "https://github.com/aiclientproxy/proxycast",
+    "stars_now": 767,
+    "breakout_threshold_7d": 383,
+    "p_breakout_7d": 0.8597,
+    "stars_pred_7d": 1327,
+    "stars_pred_low_7d": 1302,
+    "stars_pred_high_7d": 1352,
+    "features": {
+      "age_days": 12.625,
+      "since_push_days": 0.323,
+      "stars_per_day": 60.754,
+      "forks_now": 82,
+      "issues_now": 8,
+      "language": "Rust"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "GuDaStudio/skills",
+    "html_url": "https://github.com/GuDaStudio/skills",
+    "stars_now": 736,
+    "breakout_threshold_7d": 368,
+    "p_breakout_7d": 0.7756,
+    "stars_pred_7d": 1406,
+    "stars_pred_low_7d": 1381,
+    "stars_pred_high_7d": 1431,
+    "features": {
+      "age_days": 9.728,
+      "since_push_days": 2.721,
+      "stars_per_day": 75.659,
+      "forks_now": 33,
+      "issues_now": 4,
+      "language": "PowerShell"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "lwj2015/lightron",
+    "html_url": "https://github.com/lwj2015/lightron",
+    "stars_now": 732,
+    "breakout_threshold_7d": 366,
+    "p_breakout_7d": 0.7364,
+    "stars_pred_7d": 1366,
+    "stars_pred_low_7d": 1341,
+    "stars_pred_high_7d": 1391,
+    "features": {
+      "age_days": 10.041,
+      "since_push_days": 3.685,
+      "stars_per_day": 72.901,
+      "forks_now": 64,
+      "issues_now": 0,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "yeahhe365/gemini-nexus",
+    "html_url": "https://github.com/yeahhe365/gemini-nexus",
+    "stars_now": 646,
+    "breakout_threshold_7d": 323,
+    "p_breakout_7d": 0.8544,
+    "stars_pred_7d": 1474,
+    "stars_pred_low_7d": 1449,
+    "stars_pred_high_7d": 1499,
+    "features": {
+      "age_days": 7.166,
+      "since_push_days": 1.04,
+      "stars_per_day": 90.153,
+      "forks_now": 62,
+      "issues_now": 6,
+      "language": "JavaScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "antonmedv/textarea",
+    "html_url": "https://github.com/antonmedv/textarea",
+    "stars_now": 613,
+    "breakout_threshold_7d": 306,
+    "p_breakout_7d": 0.8662,
+    "stars_pred_7d": 2273,
+    "stars_pred_low_7d": 2248,
+    "stars_pred_high_7d": 2298,
+    "features": {
+      "age_days": 3.412,
+      "since_push_days": 1.493,
+      "stars_per_day": 179.645,
+      "forks_now": 25,
+      "issues_now": 12,
+      "language": "HTML"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
+    "html_url": "https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
+    "stars_now": 588,
+    "breakout_threshold_7d": 294,
+    "p_breakout_7d": 0.6565,
+    "stars_pred_7d": 1144,
+    "stars_pred_low_7d": 1119,
+    "stars_pred_high_7d": 1169,
+    "features": {
+      "age_days": 8.841,
+      "since_push_days": 5.156,
+      "stars_per_day": 66.508,
+      "forks_now": 93,
+      "issues_now": 0,
+      "language": "Unknown"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "aiflowy/aiflowy",
+    "html_url": "https://github.com/aiflowy/aiflowy",
+    "stars_now": 578,
+    "breakout_threshold_7d": 289,
+    "p_breakout_7d": 0.8525,
+    "stars_pred_7d": 1059,
+    "stars_pred_low_7d": 1034,
+    "stars_pred_high_7d": 1084,
+    "features": {
+      "age_days": 11.03,
+      "since_push_days": 0.169,
+      "stars_per_day": 52.403,
+      "forks_now": 45,
+      "issues_now": 0,
+      "language": "Vue"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "eyeblech/cinecli",
+    "html_url": "https://github.com/eyeblech/cinecli",
+    "stars_now": 553,
+    "breakout_threshold_7d": 276,
+    "p_breakout_7d": 0.8368,
+    "stars_pred_7d": 1562,
+    "stars_pred_low_7d": 1537,
+    "stars_pred_high_7d": 1587,
+    "features": {
+      "age_days": 4.994,
+      "since_push_days": 1.628,
+      "stars_per_day": 110.741,
+      "forks_now": 21,
+      "issues_now": 0,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "FunAudioLLM/Fun-ASR",
+    "html_url": "https://github.com/FunAudioLLM/Fun-ASR",
+    "stars_now": 543,
+    "breakout_threshold_7d": 271,
+    "p_breakout_7d": 0.772,
+    "stars_pred_7d": 969,
+    "stars_pred_low_7d": 944,
+    "stars_pred_high_7d": 994,
+    "features": {
+      "age_days": 11.275,
+      "since_push_days": 2.107,
+      "stars_per_day": 48.159,
+      "forks_now": 34,
+      "issues_now": 26,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2025-12-26",
+    "full_name": "Shichun-Liu/Agent-Memory-Paper-List",
+    "html_url": "https://github.com/Shichun-Liu/Agent-Memory-Paper-List",
+    "stars_now": 530,
+    "breakout_threshold_7d": 265,
+    "p_breakout_7d": 0.4794,
+    "stars_pred_7d": 839,
+    "stars_pred_low_7d": 805,
+    "stars_pred_high_7d": 873,
+    "features": {
+      "age_days": 13.053,
+      "since_push_days": 6.938,
+      "stars_per_day": 40.604,
+      "forks_now": 22,
+      "issues_now": 7,
+      "language": "Unknown"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  }
+]
