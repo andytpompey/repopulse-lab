@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2025-12-30",
+  "date_utc": "2025-12-30",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) muratcankoylan/Agent-Skills-for-Context-Engineering | 94% | stars now 4496 \u2192 est 9147 (range 9114-9180)\n   https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering\n2) pranshuparmar/witr | 94% | stars now 6778 \u2192 est 13500 (range 13448-13552)\n   https://github.com/pranshuparmar/witr\n3) bellard/mquickjs | 93% | stars now 4765 \u2192 est 10611 (range 10570-10652)\n   https://github.com/bellard/mquickjs\n4) HKUDS/DeepTutor | 93% | stars now 516 \u2192 est 3395 (range 3370-3420)\n   https://github.com/HKUDS/DeepTutor\n5) nguyenphutrong/quotio | 92% | stars now 1285 \u2192 est 3402 (range 3377-3427)\n   https://github.com/nguyenphutrong/quotio\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
