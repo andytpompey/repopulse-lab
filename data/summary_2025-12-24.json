@@ -1,0 +1,7 @@
+{
+  "prediction_date_utc": "2025-12-24",
+  "scored_date_utc": "2025-12-31",
+  "n": 30,
+  "mean_brier": 0.56806,
+  "mean_mae_stars": 1069.533
+}
