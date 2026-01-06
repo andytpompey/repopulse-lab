@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2026-01-06",
+  "date_utc": "2026-01-06",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) HKUDS/DeepTutor | 95% | stars now 5564 \u2192 est 11692 (range 11656-11728)\n   https://github.com/HKUDS/DeepTutor\n2) huseyinbabal/taws | 93% | stars now 1202 \u2192 est 7096 (range 7071-7121)\n   https://github.com/huseyinbabal/taws\n3) AnmolSaini16/mapcn | 93% | stars now 3567 \u2192 est 7373 (range 7340-7406)\n   https://github.com/AnmolSaini16/mapcn\n4) numman-ali/cc-mirror | 91% | stars now 977 \u2192 est 3678 (range 3653-3703)\n   https://github.com/numman-ali/cc-mirror\n5) jarrodwatts/claude-hud | 90% | stars now 812 \u2192 est 2592 (range 2567-2617)\n   https://github.com/jarrodwatts/claude-hud\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
