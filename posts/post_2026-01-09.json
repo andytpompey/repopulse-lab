@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2026-01-09",
+  "date_utc": "2026-01-09",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) OthmanAdi/planning-with-files | 95% | stars now 6093 \u2192 est 15794 (range 15759-15829)\n   https://github.com/OthmanAdi/planning-with-files\n2) HKUDS/DeepTutor | 95% | stars now 7183 \u2192 est 13071 (range 13026-13116)\n   https://github.com/HKUDS/DeepTutor\n3) ophub/fnnas | 93% | stars now 1069 \u2192 est 4734 (range 4709-4759)\n   https://github.com/ophub/fnnas\n4) kepano/obsidian-skills | 93% | stars now 2736 \u2192 est 6772 (range 6747-6797)\n   https://github.com/kepano/obsidian-skills\n5) AnmolSaini16/mapcn | 92% | stars now 4025 \u2192 est 7230 (range 7191-7269)\n   https://github.com/AnmolSaini16/mapcn\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
