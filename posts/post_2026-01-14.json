@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2026-01-14",
+  "date_utc": "2026-01-14",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) vercel-labs/agent-browser | 96% | stars now 4063 \u2192 est 16603 (range 16578-16628)\n   https://github.com/vercel-labs/agent-browser\n2) deepseek-ai/Engram | 95% | stars now 1916 \u2192 est 10557 (range 10532-10582)\n   https://github.com/deepseek-ai/Engram\n3) torvalds/AudioNoise | 95% | stars now 3487 \u2192 est 9853 (range 9828-9878)\n   https://github.com/torvalds/AudioNoise\n4) z-libs/Zen-C | 93% | stars now 1544 \u2192 est 6952 (range 6927-6977)\n   https://github.com/z-libs/Zen-C\n5) OthmanAdi/planning-with-files | 93% | stars now 8560 \u2192 est 15943 (range 15871-16015)\n   https://github.com/OthmanAdi/planning-with-files\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
