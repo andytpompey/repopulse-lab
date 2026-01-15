@@ -1,0 +1,7 @@
+{
+  "prediction_date_utc": "2026-01-08",
+  "scored_date_utc": "2026-01-15",
+  "n": 30,
+  "mean_brier": 0.481647,
+  "mean_mae_stars": 1423.633
+}
