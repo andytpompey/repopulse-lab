@@ -1,0 +1,692 @@
+[
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "OthmanAdi/planning-with-files",
+    "html_url": "https://github.com/OthmanAdi/planning-with-files",
+    "stars_now": 9372,
+    "breakout_threshold_7d": 4686,
+    "p_breakout_7d": 0.891,
+    "stars_pred_7d": 16090,
+    "stars_pred_low_7d": 15962,
+    "stars_pred_high_7d": 16218,
+    "features": {
+      "age_days": 13.033,
+      "since_push_days": 3.628,
+      "stars_per_day": 719.098,
+      "forks_now": 818,
+      "issues_now": 7,
+      "language": "Shell"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "kepano/obsidian-skills",
+    "html_url": "https://github.com/kepano/obsidian-skills",
+    "stars_now": 6604,
+    "breakout_threshold_7d": 3302,
+    "p_breakout_7d": 0.8416,
+    "stars_pred_7d": 11091,
+    "stars_pred_low_7d": 10960,
+    "stars_pred_high_7d": 11222,
+    "features": {
+      "age_days": 13.444,
+      "since_push_days": 4.508,
+      "stars_per_day": 491.212,
+      "forks_now": 316,
+      "issues_now": 6,
+      "language": "Unknown"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "vercel-labs/agent-browser",
+    "html_url": "https://github.com/vercel-labs/agent-browser",
+    "stars_now": 6511,
+    "breakout_threshold_7d": 3255,
+    "p_breakout_7d": 0.932,
+    "stars_pred_7d": 18620,
+    "stars_pred_low_7d": 18565,
+    "stars_pred_high_7d": 18675,
+    "features": {
+      "age_days": 5.116,
+      "since_push_days": 2.188,
+      "stars_per_day": 1272.727,
+      "forks_now": 295,
+      "issues_now": 83,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "ChrisWiles/claude-code-showcase",
+    "html_url": "https://github.com/ChrisWiles/claude-code-showcase",
+    "stars_now": 4795,
+    "breakout_threshold_7d": 2397,
+    "p_breakout_7d": 0.6064,
+    "stars_pred_7d": 8879,
+    "stars_pred_low_7d": 8643,
+    "stars_pred_high_7d": 9115,
+    "features": {
+      "age_days": 9.565,
+      "since_push_days": 9.555,
+      "stars_per_day": 501.294,
+      "forks_now": 403,
+      "issues_now": 5,
+      "language": "JavaScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "snarktank/ralph",
+    "html_url": "https://github.com/snarktank/ralph",
+    "stars_now": 4233,
+    "breakout_threshold_7d": 2116,
+    "p_breakout_7d": 0.6705,
+    "stars_pred_7d": 8311,
+    "stars_pred_low_7d": 8137,
+    "stars_pred_high_7d": 8485,
+    "features": {
+      "age_days": 8.736,
+      "since_push_days": 8.479,
+      "stars_per_day": 484.548,
+      "forks_now": 568,
+      "issues_now": 13,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "vercel-labs/json-render",
+    "html_url": "https://github.com/vercel-labs/json-render",
+    "stars_now": 4136,
+    "breakout_threshold_7d": 2068,
+    "p_breakout_7d": 0.9571,
+    "stars_pred_7d": 28597,
+    "stars_pred_low_7d": 28572,
+    "stars_pred_high_7d": 28622,
+    "features": {
+      "age_days": 1.627,
+      "since_push_days": 1.181,
+      "stars_per_day": 2542.695,
+      "forks_now": 174,
+      "issues_now": 7,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "torvalds/AudioNoise",
+    "html_url": "https://github.com/torvalds/AudioNoise",
+    "stars_now": 3864,
+    "breakout_threshold_7d": 1932,
+    "p_breakout_7d": 0.9368,
+    "stars_pred_7d": 8950,
+    "stars_pred_low_7d": 8919,
+    "stars_pred_high_7d": 8981,
+    "features": {
+      "age_days": 7.244,
+      "since_push_days": 0.383,
+      "stars_per_day": 533.4,
+      "forks_now": 176,
+      "issues_now": 25,
+      "language": "C"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "z-libs/Zen-C",
+    "html_url": "https://github.com/z-libs/Zen-C",
+    "stars_now": 2685,
+    "breakout_threshold_7d": 1342,
+    "p_breakout_7d": 0.9373,
+    "stars_pred_7d": 8110,
+    "stars_pred_low_7d": 8085,
+    "stars_pred_high_7d": 8135,
+    "features": {
+      "age_days": 4.72,
+      "since_push_days": 0.337,
+      "stars_per_day": 568.867,
+      "forks_now": 115,
+      "issues_now": 15,
+      "language": "C"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "Lightricks/LTX-2",
+    "html_url": "https://github.com/Lightricks/LTX-2",
+    "stars_now": 2559,
+    "breakout_threshold_7d": 1279,
+    "p_breakout_7d": 0.9096,
+    "stars_pred_7d": 4443,
+    "stars_pred_low_7d": 4414,
+    "stars_pred_high_7d": 4472,
+    "features": {
+      "age_days": 12.798,
+      "since_push_days": 0.531,
+      "stars_per_day": 199.96,
+      "forks_now": 295,
+      "issues_now": 41,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "deepseek-ai/Engram",
+    "html_url": "https://github.com/deepseek-ai/Engram",
+    "stars_now": 2550,
+    "breakout_threshold_7d": 1275,
+    "p_breakout_7d": 0.9055,
+    "stars_pred_7d": 8365,
+    "stars_pred_low_7d": 8335,
+    "stars_pred_high_7d": 8395,
+    "features": {
+      "age_days": 4.124,
+      "since_push_days": 2.3,
+      "stars_per_day": 618.374,
+      "forks_now": 140,
+      "issues_now": 7,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "jarrodwatts/claude-hud",
+    "html_url": "https://github.com/jarrodwatts/claude-hud",
+    "stars_now": 2376,
+    "breakout_threshold_7d": 1188,
+    "p_breakout_7d": 0.854,
+    "stars_pred_7d": 3904,
+    "stars_pred_low_7d": 3861,
+    "stars_pred_high_7d": 3947,
+    "features": {
+      "age_days": 14.285,
+      "since_push_days": 2.137,
+      "stars_per_day": 166.333,
+      "forks_now": 102,
+      "issues_now": 13,
+      "language": "JavaScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "ZhuLinsen/daily_stock_analysis",
+    "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "stars_now": 2109,
+    "breakout_threshold_7d": 1054,
+    "p_breakout_7d": 0.9297,
+    "stars_pred_7d": 5411,
+    "stars_pred_low_7d": 5386,
+    "stars_pred_high_7d": 5436,
+    "features": {
+      "age_days": 6.071,
+      "since_push_days": 0.79,
+      "stars_per_day": 347.413,
+      "forks_now": 1935,
+      "issues_now": 16,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "ZeframLou/call-me",
+    "html_url": "https://github.com/ZeframLou/call-me",
+    "stars_now": 2064,
+    "breakout_threshold_7d": 1032,
+    "p_breakout_7d": 0.6716,
+    "stars_pred_7d": 3385,
+    "stars_pred_low_7d": 3300,
+    "stars_pred_high_7d": 3470,
+    "features": {
+      "age_days": 13.159,
+      "since_push_days": 6.416,
+      "stars_per_day": 156.849,
+      "forks_now": 194,
+      "issues_now": 13,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "ophub/fnnas",
+    "html_url": "https://github.com/ophub/fnnas",
+    "stars_now": 1910,
+    "breakout_threshold_7d": 955,
+    "p_breakout_7d": 0.9189,
+    "stars_pred_7d": 3758,
+    "stars_pred_low_7d": 3733,
+    "stars_pred_high_7d": 3783,
+    "features": {
+      "age_days": 9.778,
+      "since_push_days": 0.03,
+      "stars_per_day": 195.334,
+      "forks_now": 309,
+      "issues_now": 175,
+      "language": "Shell"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "huseyinbabal/taws",
+    "html_url": "https://github.com/huseyinbabal/taws",
+    "stars_now": 1874,
+    "breakout_threshold_7d": 937,
+    "p_breakout_7d": 0.8842,
+    "stars_pred_7d": 3336,
+    "stars_pred_low_7d": 3309,
+    "stars_pred_high_7d": 3363,
+    "features": {
+      "age_days": 11.941,
+      "since_push_days": 0.803,
+      "stars_per_day": 156.942,
+      "forks_now": 51,
+      "issues_now": 2,
+      "language": "Rust"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "MedUnes/go-kata",
+    "html_url": "https://github.com/MedUnes/go-kata",
+    "stars_now": 1688,
+    "breakout_threshold_7d": 844,
+    "p_breakout_7d": 0.4108,
+    "stars_pred_7d": 2760,
+    "stars_pred_low_7d": 2636,
+    "stars_pred_high_7d": 2884,
+    "features": {
+      "age_days": 11.532,
+      "since_push_days": 10.47,
+      "stars_per_day": 146.381,
+      "forks_now": 112,
+      "issues_now": 0,
+      "language": "Unknown"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "numman-ali/cc-mirror",
+    "html_url": "https://github.com/numman-ali/cc-mirror",
+    "stars_now": 1394,
+    "breakout_threshold_7d": 697,
+    "p_breakout_7d": 0.7792,
+    "stars_pred_7d": 2316,
+    "stars_pred_low_7d": 2278,
+    "stars_pred_high_7d": 2354,
+    "features": {
+      "age_days": 13.414,
+      "since_push_days": 3.465,
+      "stars_per_day": 103.921,
+      "forks_now": 120,
+      "issues_now": 21,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "DevAgentForge/Claude-Cowork",
+    "html_url": "https://github.com/DevAgentForge/Claude-Cowork",
+    "stars_now": 1372,
+    "breakout_threshold_7d": 686,
+    "p_breakout_7d": 0.9383,
+    "stars_pred_7d": 5807,
+    "stars_pred_low_7d": 5782,
+    "stars_pred_high_7d": 5832,
+    "features": {
+      "age_days": 2.952,
+      "since_push_days": 0.097,
+      "stars_per_day": 464.831,
+      "forks_now": 200,
+      "issues_now": 20,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "1rgs/nanocode",
+    "html_url": "https://github.com/1rgs/nanocode",
+    "stars_now": 1278,
+    "breakout_threshold_7d": 639,
+    "p_breakout_7d": 0.8729,
+    "stars_pred_7d": 3530,
+    "stars_pred_low_7d": 3505,
+    "stars_pred_high_7d": 3555,
+    "features": {
+      "age_days": 5.259,
+      "since_push_days": 2.101,
+      "stars_per_day": 243.026,
+      "forks_now": 107,
+      "issues_now": 5,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "dvdsgl/claude-canvas",
+    "html_url": "https://github.com/dvdsgl/claude-canvas",
+    "stars_now": 1276,
+    "breakout_threshold_7d": 638,
+    "p_breakout_7d": 0.5434,
+    "stars_pred_7d": 2349,
+    "stars_pred_low_7d": 2276,
+    "stars_pred_high_7d": 2422,
+    "features": {
+      "age_days": 9.376,
+      "since_push_days": 8.254,
+      "stars_per_day": 136.097,
+      "forks_now": 129,
+      "issues_now": 7,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "chatfire-AI/huobao-drama",
+    "html_url": "https://github.com/chatfire-AI/huobao-drama",
+    "stars_now": 1259,
+    "breakout_threshold_7d": 629,
+    "p_breakout_7d": 0.9002,
+    "stars_pred_7d": 2346,
+    "stars_pred_low_7d": 2321,
+    "stars_pred_high_7d": 2371,
+    "features": {
+      "age_days": 10.866,
+      "since_push_days": 0.132,
+      "stars_per_day": 115.87,
+      "forks_now": 315,
+      "issues_now": 3,
+      "language": "Vue"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "Yeachan-Heo/oh-my-claude-sisyphus",
+    "html_url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+    "stars_now": 1243,
+    "breakout_threshold_7d": 621,
+    "p_breakout_7d": 0.9101,
+    "stars_pred_7d": 2870,
+    "stars_pred_low_7d": 2845,
+    "stars_pred_high_7d": 2895,
+    "features": {
+      "age_days": 7.2,
+      "since_push_days": 0.028,
+      "stars_per_day": 172.631,
+      "forks_now": 112,
+      "issues_now": 0,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "fengshao1227/ccg-workflow",
+    "html_url": "https://github.com/fengshao1227/ccg-workflow",
+    "stars_now": 1209,
+    "breakout_threshold_7d": 604,
+    "p_breakout_7d": 0.891,
+    "stars_pred_7d": 2175,
+    "stars_pred_low_7d": 2150,
+    "stars_pred_high_7d": 2200,
+    "features": {
+      "age_days": 11.686,
+      "since_push_days": 0.023,
+      "stars_per_day": 103.453,
+      "forks_now": 90,
+      "issues_now": 3,
+      "language": "Go"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "PDFCraftTool/pdfcraft",
+    "html_url": "https://github.com/PDFCraftTool/pdfcraft",
+    "stars_now": 1189,
+    "breakout_threshold_7d": 594,
+    "p_breakout_7d": 0.7807,
+    "stars_pred_7d": 1983,
+    "stars_pred_low_7d": 1950,
+    "stars_pred_high_7d": 2016,
+    "features": {
+      "age_days": 13.299,
+      "since_push_days": 3.224,
+      "stars_per_day": 89.407,
+      "forks_now": 134,
+      "issues_now": 3,
+      "language": "JavaScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "kyutai-labs/pocket-tts",
+    "html_url": "https://github.com/kyutai-labs/pocket-tts",
+    "stars_now": 1078,
+    "breakout_threshold_7d": 539,
+    "p_breakout_7d": 0.8883,
+    "stars_pred_7d": 2245,
+    "stars_pred_low_7d": 2220,
+    "stars_pred_high_7d": 2270,
+    "features": {
+      "age_days": 8.619,
+      "since_push_days": 0.498,
+      "stars_per_day": 125.072,
+      "forks_now": 116,
+      "issues_now": 26,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "teng-lin/notebooklm-py",
+    "html_url": "https://github.com/teng-lin/notebooklm-py",
+    "stars_now": 1055,
+    "breakout_threshold_7d": 527,
+    "p_breakout_7d": 0.8852,
+    "stars_pred_7d": 2184,
+    "stars_pred_low_7d": 2159,
+    "stars_pred_high_7d": 2209,
+    "features": {
+      "age_days": 8.707,
+      "since_push_days": 0.487,
+      "stars_per_day": 121.171,
+      "forks_now": 84,
+      "issues_now": 3,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "x011/smtp-tunnel-proxy",
+    "html_url": "https://github.com/x011/smtp-tunnel-proxy",
+    "stars_now": 1032,
+    "breakout_threshold_7d": 516,
+    "p_breakout_7d": 0.4689,
+    "stars_pred_7d": 1852,
+    "stars_pred_low_7d": 1783,
+    "stars_pred_high_7d": 1921,
+    "features": {
+      "age_days": 9.532,
+      "since_push_days": 9.0,
+      "stars_per_day": 108.264,
+      "forks_now": 91,
+      "issues_now": 1,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "Dammyjay93/claude-design-engineer",
+    "html_url": "https://github.com/Dammyjay93/claude-design-engineer",
+    "stars_now": 1018,
+    "breakout_threshold_7d": 509,
+    "p_breakout_7d": 0.8473,
+    "stars_pred_7d": 1842,
+    "stars_pred_low_7d": 1817,
+    "stars_pred_high_7d": 1867,
+    "features": {
+      "age_days": 11.322,
+      "since_push_days": 1.369,
+      "stars_per_day": 89.916,
+      "forks_now": 95,
+      "issues_now": 5,
+      "language": "JavaScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "trailofbits/skills",
+    "html_url": "https://github.com/trailofbits/skills",
+    "stars_now": 968,
+    "breakout_threshold_7d": 484,
+    "p_breakout_7d": 0.9315,
+    "stars_pred_7d": 6779,
+    "stars_pred_low_7d": 6754,
+    "stars_pred_high_7d": 6804,
+    "features": {
+      "age_days": 1.584,
+      "since_push_days": 0.691,
+      "stars_per_day": 610.931,
+      "forks_now": 67,
+      "issues_now": 2,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-01-16",
+    "full_name": "jenish-sojitra/JSAnalyzer",
+    "html_url": "https://github.com/jenish-sojitra/JSAnalyzer",
+    "stars_now": 924,
+    "breakout_threshold_7d": 462,
+    "p_breakout_7d": 0.402,
+    "stars_pred_7d": 1468,
+    "stars_pred_low_7d": 1399,
+    "stars_pred_high_7d": 1537,
+    "features": {
+      "age_days": 12.369,
+      "since_push_days": 9.643,
+      "stars_per_day": 74.702,
+      "forks_now": 151,
+      "issues_now": 5,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  }
+]
