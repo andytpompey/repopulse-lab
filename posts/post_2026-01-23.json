@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2026-01-23",
+  "date_utc": "2026-01-23",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) affaan-m/everything-claude-code | 98% | stars now 19348 \u2192 est 54654 (range 54596-54712)\n   https://github.com/affaan-m/everything-claude-code\n2) different-ai/openwork | 95% | stars now 6210 \u2192 est 12625 (range 12586-12664)\n   https://github.com/different-ai/openwork\n3) xai-org/x-algorithm | 95% | stars now 12476 \u2192 est 47799 (range 47717-47881)\n   https://github.com/xai-org/x-algorithm\n4) vercel-labs/agent-browser | 95% | stars now 9765 \u2192 est 17480 (range 17414-17546)\n   https://github.com/vercel-labs/agent-browser\n5) vercel-labs/json-render | 94% | stars now 8494 \u2192 est 17885 (range 17819-17951)\n   https://github.com/vercel-labs/json-render\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
