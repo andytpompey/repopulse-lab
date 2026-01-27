@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2026-01-27",
+  "date_utc": "2026-01-27",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) affaan-m/everything-claude-code | 98% | stars now 31520 \u2192 est 64326 (range 64229-64423)\n   https://github.com/affaan-m/everything-claude-code\n2) different-ai/openwork | 95% | stars now 7558 \u2192 est 13007 (range 12957-13057)\n   https://github.com/different-ai/openwork\n3) github/copilot-sdk | 94% | stars now 5854 \u2192 est 10041 (range 9996-10086)\n   https://github.com/github/copilot-sdk\n4) coreyhaines31/marketingskills | 94% | stars now 4883 \u2192 est 8923 (range 8885-8961)\n   https://github.com/coreyhaines31/marketingskills\n5) sickn33/antigravity-awesome-skills | 94% | stars now 4039 \u2192 est 7093 (range 7061-7125)\n   https://github.com/sickn33/antigravity-awesome-skills\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
