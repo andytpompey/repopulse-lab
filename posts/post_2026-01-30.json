@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2026-01-30",
+  "date_utc": "2026-01-30",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) affaan-m/everything-claude-code | 97% | stars now 34936 \u2192 est 62407 (range 62290-62524)\n   https://github.com/affaan-m/everything-claude-code\n2) lukilabs/beautiful-mermaid | 96% | stars now 2933 \u2192 est 19847 (range 19822-19872)\n   https://github.com/lukilabs/beautiful-mermaid\n3) cloudflare/moltworker | 94% | stars now 1886 \u2192 est 8126 (range 8101-8151)\n   https://github.com/cloudflare/moltworker\n4) VoltAgent/awesome-moltbot-skills | 94% | stars now 3749 \u2192 est 10960 (range 10932-10988)\n   https://github.com/VoltAgent/awesome-moltbot-skills\n5) deepseek-ai/DeepSeek-OCR-2 | 93% | stars now 1639 \u2192 est 6476 (range 6451-6501)\n   https://github.com/deepseek-ai/DeepSeek-OCR-2\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
