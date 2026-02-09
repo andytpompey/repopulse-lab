@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2026-02-09",
+  "date_utc": "2026-02-09",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) HKUDS/nanobot | 97% | stars now 14212 \u2192 est 31248 (range 31190-31306)\n   https://github.com/HKUDS/nanobot\n2) gavrielc/nanoclaw | 95% | stars now 6495 \u2192 est 13659 (range 13621-13697)\n   https://github.com/gavrielc/nanoclaw\n3) mitchellh/vouch | 93% | stars now 1740 \u2192 est 6475 (range 6450-6500)\n   https://github.com/mitchellh/vouch\n4) BlockRunAI/ClawRouter | 93% | stars now 1876 \u2192 est 5043 (range 5018-5068)\n   https://github.com/BlockRunAI/ClawRouter\n5) cloudflare/moltworker | 93% | stars now 8225 \u2192 est 14274 (range 14197-14351)\n   https://github.com/cloudflare/moltworker\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
