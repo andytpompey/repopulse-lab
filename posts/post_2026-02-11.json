@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2026-02-11",
+  "date_utc": "2026-02-11",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) HKUDS/nanobot | 96% | stars now 16451 \u2192 est 32216 (range 32138-32294)\n   https://github.com/HKUDS/nanobot\n2) qwibitai/nanoclaw | 95% | stars now 7005 \u2192 est 13270 (range 13223-13317)\n   https://github.com/qwibitai/nanoclaw\n3) Leey21/awesome-ai-research-writing | 94% | stars now 5368 \u2192 est 9626 (range 9585-9667)\n   https://github.com/Leey21/awesome-ai-research-writing\n4) The-Vibe-Company/companion | 93% | stars now 1482 \u2192 est 4939 (range 4914-4964)\n   https://github.com/The-Vibe-Company/companion\n5) op7418/CodePilot | 93% | stars now 1642 \u2192 est 4870 (range 4845-4895)\n   https://github.com/op7418/CodePilot\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
