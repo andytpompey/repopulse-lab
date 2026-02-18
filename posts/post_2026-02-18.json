@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2026-02-18",
+  "date_utc": "2026-02-18",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) zeroclaw-labs/zeroclaw | 97% | stars now 11220 \u2192 est 32978 (range 32936-33020)\n   https://github.com/zeroclaw-labs/zeroclaw\n2) sipeed/picoclaw | 96% | stars now 15091 \u2192 est 25601 (range 25528-25674)\n   https://github.com/sipeed/picoclaw\n3) HKUDS/ClawWork | 94% | stars now 1772 \u2192 est 8117 (range 8092-8142)\n   https://github.com/HKUDS/ClawWork\n4) bwya77/vscode-dark-islands | 93% | stars now 3496 \u2192 est 11497 (range 11465-11529)\n   https://github.com/bwya77/vscode-dark-islands\n5) PeonPing/peon-ping | 92% | stars now 2361 \u2192 est 5028 (range 5003-5053)\n   https://github.com/PeonPing/peon-ping\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
