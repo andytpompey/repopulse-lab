@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2026-02-25",
+  "date_utc": "2026-02-25",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) zeroclaw-labs/zeroclaw | 97% | stars now 18892 \u2192 est 34115 (range 34037-34193)\n   https://github.com/zeroclaw-labs/zeroclaw\n2) cloudflare/vinext | 95% | stars now 1554 \u2192 est 14538 (range 14513-14563)\n   https://github.com/cloudflare/vinext\n3) HKUDS/ClawWork | 95% | stars now 5485 \u2192 est 10918 (range 10881-10955)\n   https://github.com/HKUDS/ClawWork\n4) nicobailon/visual-explainer | 93% | stars now 2921 \u2192 est 6171 (range 6146-6196)\n   https://github.com/nicobailon/visual-explainer\n5) AlexsJones/llmfit | 93% | stars now 4384 \u2192 est 8681 (range 8641-8721)\n   https://github.com/AlexsJones/llmfit\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
