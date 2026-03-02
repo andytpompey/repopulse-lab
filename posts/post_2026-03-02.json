@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2026-03-02",
+  "date_utc": "2026-03-02",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) RightNow-AI/openfang | 96% | stars now 8364 \u2192 est 23318 (range 23279-23357)\n   https://github.com/RightNow-AI/openfang\n2) World-Open-Graph/br-acc | 95% | stars now 830 \u2192 est 8791 (range 8766-8816)\n   https://github.com/World-Open-Graph/br-acc\n3) agentscope-ai/CoPaw | 95% | stars now 4262 \u2192 est 10849 (range 10822-10876)\n   https://github.com/agentscope-ai/CoPaw\n4) cloudflare/vinext | 95% | stars now 5025 \u2192 est 12854 (range 12821-12887)\n   https://github.com/cloudflare/vinext\n5) Lakr233/vphone-cli | 94% | stars now 2100 \u2192 est 7275 (range 7250-7300)\n   https://github.com/Lakr233/vphone-cli\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
