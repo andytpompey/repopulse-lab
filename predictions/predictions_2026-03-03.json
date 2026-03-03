@@ -1,0 +1,692 @@
+[
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "RightNow-AI/openfang",
+    "html_url": "https://github.com/RightNow-AI/openfang",
+    "stars_now": 9373,
+    "breakout_threshold_7d": 4686,
+    "p_breakout_7d": 0.9621,
+    "stars_pred_7d": 23513,
+    "stars_pred_low_7d": 23469,
+    "stars_pred_high_7d": 23557,
+    "features": {
+      "age_days": 6.391,
+      "since_push_days": 0.26,
+      "stars_per_day": 1466.659,
+      "forks_now": 983,
+      "issues_now": 116,
+      "language": "Rust"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "agentscope-ai/CoPaw",
+    "html_url": "https://github.com/agentscope-ai/CoPaw",
+    "stars_now": 6280,
+    "breakout_threshold_7d": 3140,
+    "p_breakout_7d": 0.9552,
+    "stars_pred_7d": 14660,
+    "stars_pred_low_7d": 14625,
+    "stars_pred_high_7d": 14695,
+    "features": {
+      "age_days": 7.203,
+      "since_push_days": 0.018,
+      "stars_per_day": 871.858,
+      "forks_now": 613,
+      "issues_now": 254,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "cloudflare/vinext",
+    "html_url": "https://github.com/cloudflare/vinext",
+    "stars_now": 5504,
+    "breakout_threshold_7d": 2752,
+    "p_breakout_7d": 0.9467,
+    "stars_pred_7d": 12882,
+    "stars_pred_low_7d": 12845,
+    "stars_pred_high_7d": 12919,
+    "features": {
+      "age_days": 7.144,
+      "since_push_days": 0.23,
+      "stars_per_day": 770.42,
+      "forks_now": 173,
+      "issues_now": 68,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "anthropics/financial-services-plugins",
+    "html_url": "https://github.com/anthropics/financial-services-plugins",
+    "stars_now": 5248,
+    "breakout_threshold_7d": 2624,
+    "p_breakout_7d": 0.7635,
+    "stars_pred_7d": 11370,
+    "stars_pred_low_7d": 11215,
+    "stars_pred_high_7d": 11525,
+    "features": {
+      "age_days": 7.549,
+      "since_push_days": 7.18,
+      "stars_per_day": 695.2,
+      "forks_now": 532,
+      "issues_now": 12,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "Panniantong/Agent-Reach",
+    "html_url": "https://github.com/Panniantong/Agent-Reach",
+    "stars_now": 3909,
+    "breakout_threshold_7d": 1954,
+    "p_breakout_7d": 0.934,
+    "stars_pred_7d": 9031,
+    "stars_pred_low_7d": 8999,
+    "stars_pred_high_7d": 9063,
+    "features": {
+      "age_days": 7.267,
+      "since_push_days": 0.729,
+      "stars_per_day": 537.891,
+      "forks_now": 311,
+      "issues_now": 8,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "maderix/ANE",
+    "html_url": "https://github.com/maderix/ANE",
+    "stars_now": 3175,
+    "breakout_threshold_7d": 1587,
+    "p_breakout_7d": 0.9581,
+    "stars_pred_7d": 13485,
+    "stars_pred_low_7d": 13460,
+    "stars_pred_high_7d": 13510,
+    "features": {
+      "age_days": 2.964,
+      "since_push_days": 0.029,
+      "stars_per_day": 1071.279,
+      "forks_now": 545,
+      "issues_now": 11,
+      "language": "Objective-C"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "Lakr233/vphone-cli",
+    "html_url": "https://github.com/Lakr233/vphone-cli",
+    "stars_now": 2801,
+    "breakout_threshold_7d": 1400,
+    "p_breakout_7d": 0.9454,
+    "stars_pred_7d": 8295,
+    "stars_pred_low_7d": 8270,
+    "stars_pred_high_7d": 8320,
+    "features": {
+      "age_days": 4.879,
+      "since_push_days": 0.14,
+      "stars_per_day": 574.063,
+      "forks_now": 487,
+      "issues_now": 11,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "mksglu/claude-context-mode",
+    "html_url": "https://github.com/mksglu/claude-context-mode",
+    "stars_now": 2132,
+    "breakout_threshold_7d": 1066,
+    "p_breakout_7d": 0.912,
+    "stars_pred_7d": 4611,
+    "stars_pred_low_7d": 4586,
+    "stars_pred_high_7d": 4636,
+    "features": {
+      "age_days": 8.11,
+      "since_push_days": 0.575,
+      "stars_per_day": 262.876,
+      "forks_now": 105,
+      "issues_now": 12,
+      "language": "JavaScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "Leonxlnx/taste-skill",
+    "html_url": "https://github.com/Leonxlnx/taste-skill",
+    "stars_now": 1863,
+    "breakout_threshold_7d": 931,
+    "p_breakout_7d": 0.8487,
+    "stars_pred_7d": 3354,
+    "stars_pred_low_7d": 3319,
+    "stars_pred_high_7d": 3389,
+    "features": {
+      "age_days": 11.452,
+      "since_push_days": 2.321,
+      "stars_per_day": 162.676,
+      "forks_now": 124,
+      "issues_now": 1,
+      "language": "Unknown"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "peteromallet/dataclaw",
+    "html_url": "https://github.com/peteromallet/dataclaw",
+    "stars_now": 1784,
+    "breakout_threshold_7d": 892,
+    "p_breakout_7d": 0.7917,
+    "stars_pred_7d": 4233,
+    "stars_pred_low_7d": 4187,
+    "stars_pred_high_7d": 4279,
+    "features": {
+      "age_days": 6.501,
+      "since_push_days": 4.844,
+      "stars_per_day": 274.422,
+      "forks_now": 220,
+      "issues_now": 6,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "ringhyacinth/Star-Office-UI",
+    "html_url": "https://github.com/ringhyacinth/Star-Office-UI",
+    "stars_now": 1528,
+    "breakout_threshold_7d": 764,
+    "p_breakout_7d": 0.9211,
+    "stars_pred_7d": 4310,
+    "stars_pred_low_7d": 4285,
+    "stars_pred_high_7d": 4335,
+    "features": {
+      "age_days": 5.201,
+      "since_push_days": 0.368,
+      "stars_per_day": 293.78,
+      "forks_now": 152,
+      "issues_now": 10,
+      "language": "HTML"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "Polymarket/polymarket-cli",
+    "html_url": "https://github.com/Polymarket/polymarket-cli",
+    "stars_now": 1492,
+    "breakout_threshold_7d": 746,
+    "p_breakout_7d": 0.7303,
+    "stars_pred_7d": 3397,
+    "stars_pred_low_7d": 3347,
+    "stars_pred_high_7d": 3447,
+    "features": {
+      "age_days": 6.787,
+      "since_push_days": 5.731,
+      "stars_per_day": 219.827,
+      "forks_now": 137,
+      "issues_now": 22,
+      "language": "Rust"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "kevinho/clawfeed",
+    "html_url": "https://github.com/kevinho/clawfeed",
+    "stars_now": 1471,
+    "breakout_threshold_7d": 735,
+    "p_breakout_7d": 0.793,
+    "stars_pred_7d": 2796,
+    "stars_pred_low_7d": 2758,
+    "stars_pred_high_7d": 2834,
+    "features": {
+      "age_days": 9.915,
+      "since_push_days": 3.685,
+      "stars_per_day": 148.366,
+      "forks_now": 116,
+      "issues_now": 10,
+      "language": "HTML"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "ShinMegamiBoson/OpenPlanter",
+    "html_url": "https://github.com/ShinMegamiBoson/OpenPlanter",
+    "stars_now": 1400,
+    "breakout_threshold_7d": 700,
+    "p_breakout_7d": 0.5819,
+    "stars_pred_7d": 2395,
+    "stars_pred_low_7d": 2322,
+    "stars_pred_high_7d": 2468,
+    "features": {
+      "age_days": 11.313,
+      "since_push_days": 7.612,
+      "stars_per_day": 123.75,
+      "forks_now": 216,
+      "issues_now": 17,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "ylytdeng/wechat-decrypt",
+    "html_url": "https://github.com/ylytdeng/wechat-decrypt",
+    "stars_now": 1379,
+    "breakout_threshold_7d": 689,
+    "p_breakout_7d": 0.9415,
+    "stars_pred_7d": 5511,
+    "stars_pred_low_7d": 5486,
+    "stars_pred_high_7d": 5536,
+    "features": {
+      "age_days": 3.189,
+      "since_push_days": 0.194,
+      "stars_per_day": 432.483,
+      "forks_now": 1065,
+      "issues_now": 7,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "eooce/python-ws",
+    "html_url": "https://github.com/eooce/python-ws",
+    "stars_now": 1247,
+    "breakout_threshold_7d": 623,
+    "p_breakout_7d": 0.8115,
+    "stars_pred_7d": 2490,
+    "stars_pred_low_7d": 2461,
+    "stars_pred_high_7d": 2519,
+    "features": {
+      "age_days": 9.037,
+      "since_push_days": 3.383,
+      "stars_per_day": 137.991,
+      "forks_now": 337,
+      "issues_now": 1,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "ForLoopCodes/contextplus",
+    "html_url": "https://github.com/ForLoopCodes/contextplus",
+    "stars_now": 1234,
+    "breakout_threshold_7d": 617,
+    "p_breakout_7d": 0.9116,
+    "stars_pred_7d": 4257,
+    "stars_pred_low_7d": 4232,
+    "stars_pred_high_7d": 4282,
+    "features": {
+      "age_days": 3.849,
+      "since_push_days": 0.829,
+      "stars_per_day": 320.581,
+      "forks_now": 78,
+      "issues_now": 0,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "taigrr/spank",
+    "html_url": "https://github.com/taigrr/spank",
+    "stars_now": 1214,
+    "breakout_threshold_7d": 607,
+    "p_breakout_7d": 0.875,
+    "stars_pred_7d": 2566,
+    "stars_pred_low_7d": 2541,
+    "stars_pred_high_7d": 2591,
+    "features": {
+      "age_days": 8.328,
+      "since_push_days": 1.022,
+      "stars_per_day": 145.775,
+      "forks_now": 48,
+      "issues_now": 1,
+      "language": "Go"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "RightNow-AI/picolm",
+    "html_url": "https://github.com/RightNow-AI/picolm",
+    "stars_now": 1158,
+    "breakout_threshold_7d": 579,
+    "p_breakout_7d": 0.4951,
+    "stars_pred_7d": 1880,
+    "stars_pred_low_7d": 1807,
+    "stars_pred_high_7d": 1953,
+    "features": {
+      "age_days": 12.311,
+      "since_push_days": 8.437,
+      "stars_per_day": 94.061,
+      "forks_now": 122,
+      "issues_now": 14,
+      "language": "C"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "smartcmd/MinecraftConsoles",
+    "html_url": "https://github.com/smartcmd/MinecraftConsoles",
+    "stars_now": 1086,
+    "breakout_threshold_7d": 543,
+    "p_breakout_7d": 0.9418,
+    "stars_pred_7d": 5842,
+    "stars_pred_low_7d": 5817,
+    "stars_pred_high_7d": 5867,
+    "features": {
+      "age_days": 2.182,
+      "since_push_days": 0.003,
+      "stars_per_day": 497.746,
+      "forks_now": 238,
+      "issues_now": 72,
+      "language": "C++"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "World-Open-Graph/br-acc",
+    "html_url": "https://github.com/World-Open-Graph/br-acc",
+    "stars_now": 1080,
+    "breakout_threshold_7d": 540,
+    "p_breakout_7d": 0.9435,
+    "stars_pred_7d": 7098,
+    "stars_pred_low_7d": 7073,
+    "stars_pred_high_7d": 7123,
+    "features": {
+      "age_days": 1.716,
+      "since_push_days": 0.298,
+      "stars_per_day": 629.344,
+      "forks_now": 298,
+      "issues_now": 2,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "angel10x/Polymarket-Trading-Bot",
+    "html_url": "https://github.com/angel10x/Polymarket-Trading-Bot",
+    "stars_now": 999,
+    "breakout_threshold_7d": 499,
+    "p_breakout_7d": 0.7161,
+    "stars_pred_7d": 1728,
+    "stars_pred_low_7d": 1693,
+    "stars_pred_high_7d": 1763,
+    "features": {
+      "age_days": 11.793,
+      "since_push_days": 3.526,
+      "stars_per_day": 84.713,
+      "forks_now": 2,
+      "issues_now": 0,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "mgechev/skills-best-practices",
+    "html_url": "https://github.com/mgechev/skills-best-practices",
+    "stars_now": 981,
+    "breakout_threshold_7d": 490,
+    "p_breakout_7d": 0.8946,
+    "stars_pred_7d": 2386,
+    "stars_pred_low_7d": 2361,
+    "stars_pred_high_7d": 2411,
+    "features": {
+      "age_days": 6.533,
+      "since_push_days": 0.343,
+      "stars_per_day": 150.159,
+      "forks_now": 58,
+      "issues_now": 0,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "better-auth/better-hub",
+    "html_url": "https://github.com/better-auth/better-hub",
+    "stars_now": 959,
+    "breakout_threshold_7d": 479,
+    "p_breakout_7d": 0.8817,
+    "stars_pred_7d": 1788,
+    "stars_pred_low_7d": 1763,
+    "stars_pred_high_7d": 1813,
+    "features": {
+      "age_days": 10.762,
+      "since_push_days": 0.1,
+      "stars_per_day": 89.109,
+      "forks_now": 71,
+      "issues_now": 28,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "win4r/memory-lancedb-pro",
+    "html_url": "https://github.com/win4r/memory-lancedb-pro",
+    "stars_now": 910,
+    "breakout_threshold_7d": 455,
+    "p_breakout_7d": 0.9012,
+    "stars_pred_7d": 2130,
+    "stars_pred_low_7d": 2105,
+    "stars_pred_high_7d": 2155,
+    "features": {
+      "age_days": 6.998,
+      "since_push_days": 0.184,
+      "stars_per_day": 130.039,
+      "forks_now": 226,
+      "issues_now": 5,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "olvvier/apple-silicon-accelerometer",
+    "html_url": "https://github.com/olvvier/apple-silicon-accelerometer",
+    "stars_now": 897,
+    "breakout_threshold_7d": 448,
+    "p_breakout_7d": 0.7971,
+    "stars_pred_7d": 1557,
+    "stars_pred_low_7d": 1532,
+    "stars_pred_high_7d": 1582,
+    "features": {
+      "age_days": 12.165,
+      "since_push_days": 2.237,
+      "stars_per_day": 73.737,
+      "forks_now": 43,
+      "issues_now": 3,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "TraderAlice/OpenAlice",
+    "html_url": "https://github.com/TraderAlice/OpenAlice",
+    "stars_now": 820,
+    "breakout_threshold_7d": 410,
+    "p_breakout_7d": 0.8177,
+    "stars_pred_7d": 1405,
+    "stars_pred_low_7d": 1380,
+    "stars_pred_high_7d": 1430,
+    "features": {
+      "age_days": 12.661,
+      "since_push_days": 1.731,
+      "stars_per_day": 64.764,
+      "forks_now": 104,
+      "issues_now": 1,
+      "language": "TypeScript"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "wh1te4ever/super-tart-vphone-writeup",
+    "html_url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
+    "stars_now": 805,
+    "breakout_threshold_7d": 402,
+    "p_breakout_7d": 0.688,
+    "stars_pred_7d": 1919,
+    "stars_pred_low_7d": 1888,
+    "stars_pred_high_7d": 1950,
+    "features": {
+      "age_days": 6.133,
+      "since_push_days": 5.689,
+      "stars_per_day": 131.254,
+      "forks_now": 110,
+      "issues_now": 4,
+      "language": "Swift"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "apple/python-apple-fm-sdk",
+    "html_url": "https://github.com/apple/python-apple-fm-sdk",
+    "stars_now": 802,
+    "breakout_threshold_7d": 401,
+    "p_breakout_7d": 0.6931,
+    "stars_pred_7d": 2033,
+    "stars_pred_low_7d": 2002,
+    "stars_pred_high_7d": 2064,
+    "features": {
+      "age_days": 5.545,
+      "since_push_days": 5.533,
+      "stars_per_day": 144.64,
+      "forks_now": 48,
+      "issues_now": 4,
+      "language": "Python"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  },
+  {
+    "date_utc": "2026-03-03",
+    "full_name": "34306/vphone-aio",
+    "html_url": "https://github.com/34306/vphone-aio",
+    "stars_now": 794,
+    "breakout_threshold_7d": 397,
+    "p_breakout_7d": 0.9224,
+    "stars_pred_7d": 3364,
+    "stars_pred_low_7d": 3339,
+    "stars_pred_high_7d": 3389,
+    "features": {
+      "age_days": 2.927,
+      "since_push_days": 0.178,
+      "stars_per_day": 271.293,
+      "forks_now": 157,
+      "issues_now": 7,
+      "language": "Shell"
+    },
+    "model": {
+      "type": "heuristic_logistic_v1",
+      "notes": "Reproducible baseline. No LLM."
+    }
+  }
+]
