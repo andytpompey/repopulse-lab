@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2026-03-04",
+  "date_utc": "2026-03-04",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) RightNow-AI/openfang | 96% | stars now 9826 \u2192 est 22639 (range 22591-22687)\n   https://github.com/RightNow-AI/openfang\n2) maderix/ANE | 96% | stars now 4864 \u2192 est 16692 (range 16667-16717)\n   https://github.com/maderix/ANE\n3) agentscope-ai/CoPaw | 96% | stars now 7647 \u2192 est 16616 (range 16575-16657)\n   https://github.com/agentscope-ai/CoPaw\n4) smartcmd/MinecraftConsoles | 95% | stars now 1914 \u2192 est 7676 (range 7651-7701)\n   https://github.com/smartcmd/MinecraftConsoles\n5) Panniantong/Agent-Reach | 94% | stars now 4722 \u2192 est 10188 (range 10156-10220)\n   https://github.com/Panniantong/Agent-Reach\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
