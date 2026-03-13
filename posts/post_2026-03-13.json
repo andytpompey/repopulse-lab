@@ -1,0 +1,5 @@
+{
+  "post_id": "repopulse-2026-03-13",
+  "date_utc": "2026-03-13",
+  "text": "RepoPulse forecast (7-day breakout watchlist)\n\nMethod: reproducible baseline model using public GitHub signals (no LLM).\nBreakout = +max(200 stars, +50%) within 7 days.\n\n1) garrytan/gstack | 97% | stars now 3573 \u2192 est 27126 (range 27101-27151)\n   https://github.com/garrytan/gstack\n2) HKUDS/CLI-Anything | 97% | stars now 10057 \u2192 est 30387 (range 30345-30429)\n   https://github.com/HKUDS/CLI-Anything\n3) paperclipai/paperclip | 97% | stars now 21407 \u2192 est 40672 (range 40581-40763)\n   https://github.com/paperclipai/paperclip\n4) karpathy/autoresearch | 96% | stars now 29821 \u2192 est 74511 (range 74379-74643)\n   https://github.com/karpathy/autoresearch\n5) googleworkspace/cli | 96% | stars now 19721 \u2192 est 37789 (range 37701-37877)\n   https://github.com/googleworkspace/cli\n\nDaily forecasts are logged publicly, then scored 7 days later (hits, misses, calibration).\n#opensource #software #datascience #forecasting #github"
+}
